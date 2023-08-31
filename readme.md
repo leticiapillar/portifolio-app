@@ -9,4 +9,11 @@
 - SQLite
 - Bootstrap
 
+#### Admin site
+- user: admin
+- pass: admin123
 
+#### Start
+- running: `python manage.py runserver`
+- home: http://localhost:8000/
+- projects: http://localhost:8000/projects
